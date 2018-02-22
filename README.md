@@ -2,4 +2,4 @@
 
 Some useful templates of algorithms and data structures in OI
 
-View more about solutions of problem in OI:  [Willem's Blog](http://willem.linshihan.cn){:target="_blank"}
+View more about solutions of problem in OI:  [Willem's Blog](http://willem.linshihan.cn)
