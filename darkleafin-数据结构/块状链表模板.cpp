@@ -1,4 +1,4 @@
-// ¿é×´Á´±í (2018.3.2) 
+// å—çŠ¶é“¾è¡¨ (2018.3.2) 
 // BZOJ 1507 [NOI 2003] Editor
 #include<cstdio>
 #include<cstdlib>
